@@ -1,73 +1,100 @@
-# Welcome to your Lovable project
+📖 Algorand Copilot – Aelys
 
-## Project info
+AI-powered NFT & Crypto Analytics Conversational Assistant
 
-**URL**: https://lovable.dev/projects/c8925fd0-dffd-4a96-94cf-bd3b4651d2a0
+🚀 Project Overview
 
-## How can I edit this code?
+Algorand Copilot is a next-generation NFT and crypto analytics platform, designed as an AI-powered conversational assistant that delivers personalized portfolio management and real-time market intelligence.
 
-There are several ways of editing your application.
+Built using OpenAI’s large language models and bitsCrunch UnleashNFTs APIs (26 endpoints), Aelys empowers NFT collectors, traders, and enthusiasts with:
 
-**Use Lovable**
+🔗 Seamless wallet connections
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/c8925fd0-dffd-4a96-94cf-bd3b4651d2a0) and start prompting.
+📊 Comprehensive portfolio insights
 
-Changes made via Lovable will be committed automatically to this repo.
+🛡️ Risk & fraud detection
 
-**Use your preferred IDE**
+🤖 Natural, chat-based analytics
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+✨ Key Features
+📌 NFT & Crypto Portfolio Intelligence
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Track & analyze Web3 portfolios, DeFi holdings, and NFTs.
 
-Follow these steps:
+Wallet & Risk Analysis → Token balances, NFT valuation, wallet reputation, and activity trends.
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+Fraud Detection → Suspicious wallet behavior, wash trading, and threat alerts.
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+Conversational Analytics → Ask any question and get live data + natural explanations.
 
-# Step 3: Install the necessary dependencies.
-npm i
+📌 Core Features – Complete Portfolio Management Solution
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+🔗 Wallet Integration → Multi-wallet support (Pera, Defly).
 
-**Edit a file directly in GitHub**
+📊 Analytics Dashboard → Real-time portfolio tracking.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+🛡️ Risk Detection → Fraud alerts & suspicious activity monitoring.
 
-**Use GitHub Codespaces**
+💬 Chat-based AI → Private & intuitive interface for users.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+📌 Blockchain Integration
 
-## What technologies are used for this project?
+✅ Algorand TestNet & MainNet support.
 
-This project is built with:
+✅ Native ASA (Algorand Standard Assets) tracking.
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+✅ NFT detection & management.
 
-## How can I deploy this project?
+✅ Transaction history analysis.
 
-Simply open [Lovable](https://lovable.dev/projects/c8925fd0-dffd-4a96-94cf-bd3b4651d2a0) and click on Share -> Publish.
+🛠️ Tech Stack
 
-## Can I connect a custom domain to my Lovable project?
+Frontend: React + TypeScript + TailwindCSS
 
-Yes, you can!
+AI: OpenAI LLMs
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+APIs: bitsCrunch UnleashNFTs APIs (26 endpoints)
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Blockchain: Algorand TestNet/MainNet, ASA tracking
+
+Wallets: Pera, Defly
+
+🌟 Why Algorand Copilot?
+
+🚀 Personalized crypto & NFT portfolio assistant.
+
+🔒 Real-time risk detection & fraud analytics.
+
+💬 Conversational AI → Easy to use, private, and secure.
+
+🌐 Deep Algorand blockchain integration.
+
+🎯 Built for collectors, traders, and enthusiasts.
+
+👥 Team – Project Aelys
+
+Rimanshu Patel
+
+Smriti Adhikari
+
+📖 How It Works
+
+Connect Wallet → Securely link your Algorand wallet (Pera/Defly).
+
+Chat with Aelys → Ask questions about your portfolio or market trends.
+
+Get Insights → Instantly receive risk analysis, asset valuation, and NFT tracking.
+
+Stay Protected → Receive fraud alerts and suspicious activity warnings in real-time.
+
+📌 Future Scope
+
+🔮 Multi-chain support (Ethereum, Solana, Polygon).
+
+🎧 Voice-based conversational AI assistant.
+
+📲 Mobile-first experience with push notifications.
+
+🤝 Social trading insights (compare wallets & trends).
+
+⚡ Algorand Copilot is redefining NFT & crypto intelligence — making Web3 analytics smarter, faster, and more human.
