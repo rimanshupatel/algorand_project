@@ -1,100 +1,44 @@
-📖 Algorand Copilot – Aelys
+# 📖 Algorand Copilot — Aelys
 
-AI-powered NFT & Crypto Analytics Conversational Assistant
+**AI-powered NFT & Crypto Analytics Conversational Assistant**  
+Algorand Copilot is an AI-driven chat assistant that delivers personalized NFT & crypto portfolio intelligence, real-time market analytics, and risk/fraud detection — built with OpenAI LLMs, bitsCrunch UnleashNFTs APIs, and Algorand blockchain integration.
 
-🚀 Project Overview
+---
 
-Algorand Copilot is a next-generation NFT and crypto analytics platform, designed as an AI-powered conversational assistant that delivers personalized portfolio management and real-time market intelligence.
+## 🚀 Project Snapshot
 
-Built using OpenAI’s large language models and bitsCrunch UnleashNFTs APIs (26 endpoints), Aelys empowers NFT collectors, traders, and enthusiasts with:
+- **Role:** Conversational assistant for NFT & crypto analytics
+- **Core integrations:** OpenAI (LLM), bitsCrunch UnleashNFTs (26 endpoints), Algorand TestNet/MainNet (ASA & NFT support), Wallets (Pera, Defly)
+- **Team:** Rimanshu Patel, Smriti Adhikari
 
-🔗 Seamless wallet connections
+---
 
-📊 Comprehensive portfolio insights
+## ✨ Features
 
-🛡️ Risk & fraud detection
+- Personal NFT & crypto portfolio assistant (value, composition, trends)
+- Wallet & risk analysis (balances, reputation, activity trends)
+- Risk & fraud detection (wash trading, suspicious activity signals)
+- Conversational analytics — natural-language chat interface returning live on-chain insights
+- Algorand-native: TestNet/MainNet, ASA tracking, NFT detection, tx history analysis
 
-🤖 Natural, chat-based analytics
+---
 
-✨ Key Features
-📌 NFT & Crypto Portfolio Intelligence
+## 🛠 Tech Stack
 
-Track & analyze Web3 portfolios, DeFi holdings, and NFTs.
+- **Frontend:** React + TypeScript + Tailwind CSS
+- **Backend:** Node.js (Express) or a single-file server endpoint (your choice)
+- **AI:** OpenAI LLMs , gemini
+- **Blockchain:** Algorand (algod, ASA)
+- **APIs:** bitsCrunch UnleashNFTs
+- **Wallets:** Pera Wallet, Defly
 
-Wallet & Risk Analysis → Token balances, NFT valuation, wallet reputation, and activity trends.
+---
 
-Fraud Detection → Suspicious wallet behavior, wash trading, and threat alerts.
+## 🔧 Prerequisites
 
-Conversational Analytics → Ask any question and get live data + natural explanations.
+- Node.js (LTS recommended) and npm/yarn
+- Algorand node credentials or access to a public indexer (TestNet/MainNet)
+- OpenAI API key
+- bitsCrunch API key
 
-📌 Core Features – Complete Portfolio Management Solution
-
-🔗 Wallet Integration → Multi-wallet support (Pera, Defly).
-
-📊 Analytics Dashboard → Real-time portfolio tracking.
-
-🛡️ Risk Detection → Fraud alerts & suspicious activity monitoring.
-
-💬 Chat-based AI → Private & intuitive interface for users.
-
-📌 Blockchain Integration
-
-✅ Algorand TestNet & MainNet support.
-
-✅ Native ASA (Algorand Standard Assets) tracking.
-
-✅ NFT detection & management.
-
-✅ Transaction history analysis.
-
-🛠️ Tech Stack
-
-Frontend: React + TypeScript + TailwindCSS
-
-AI: OpenAI LLMs
-
-APIs: bitsCrunch UnleashNFTs APIs (26 endpoints)
-
-Blockchain: Algorand TestNet/MainNet, ASA tracking
-
-Wallets: Pera, Defly
-
-🌟 Why Algorand Copilot?
-
-🚀 Personalized crypto & NFT portfolio assistant.
-
-🔒 Real-time risk detection & fraud analytics.
-
-💬 Conversational AI → Easy to use, private, and secure.
-
-🌐 Deep Algorand blockchain integration.
-
-🎯 Built for collectors, traders, and enthusiasts.
-
-👥 Team – Project Aelys
-
-Rimanshu Patel
-
-Smriti Adhikari
-
-📖 How It Works
-
-Connect Wallet → Securely link your Algorand wallet (Pera/Defly).
-
-Chat with Aelys → Ask questions about your portfolio or market trends.
-
-Get Insights → Instantly receive risk analysis, asset valuation, and NFT tracking.
-
-Stay Protected → Receive fraud alerts and suspicious activity warnings in real-time.
-
-📌 Future Scope
-
-🔮 Multi-chain support (Ethereum, Solana, Polygon).
-
-🎧 Voice-based conversational AI assistant.
-
-📲 Mobile-first experience with push notifications.
-
-🤝 Social trading insights (compare wallets & trends).
-
-⚡ Algorand Copilot is redefining NFT & crypto intelligence — making Web3 analytics smarter, faster, and more human.
+---
