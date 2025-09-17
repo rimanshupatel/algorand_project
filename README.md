@@ -2,7 +2,7 @@
 
 **AI-powered NFT & Crypto Analytics Conversational Assistant**
 
-Aelys Copilot is a **next-generation NFT and crypto analytics platform**, designed as an **AI-driven conversational assistant**.  
+Algorand Copilot is a **next-generation NFT and crypto analytics platform**, designed as an **AI-driven conversational assistant**.  
 It delivers **personalized portfolio intelligence, real-time market insights, and risk detection** through a **simple chat-based interface** — making Web3 analytics more human-friendly and accessible.
 
 ---
@@ -105,6 +105,6 @@ Aelys Copilot follows a **multi-layer architecture** for speed, clarity, and sec
 
 ---
 
-⚡ _Algorand Copilot (Aelys) is redefining how people interact with NFT and crypto analytics — making it **simpler, smarter, and safer** for everyone in Web3._
+⚡ _Algorand Copilot is redefining how people interact with NFT and crypto analytics — making it **simpler, smarter, and safer** for everyone in Web3._
 
 ---
